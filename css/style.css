@@ -1,0 +1,43 @@
+.navbar {
+    background-color: rgb(236, 237, 237);
+}
+
+.quem-somos {
+    background-color: rgb(155, 160, 170);
+    color: aliceblue;
+}
+h3 {
+    padding: 20px;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros {
+    background-color: rgb(68, 95, 149);
+    color: aliceblue;
+}
+
+.servicos {
+    background-color: rgb(155, 160, 170);
+    color: aliceblue;
+}
+
+.footer {
+    background-color: rgb(10, 11, 11);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+}
+.footer p {
+    font-size: 12px;
+    padding: 15px;
+    color: aliceblue;
+}
+h6 {
+    margin-right: 35px;
+}
